@@ -1,0 +1,6 @@
+{
+  "name": "Balatro Blackjack",
+  "description": "A Balatro-themed blackjack simulator featuring Sandbox, Deck Laboratory, and Guided Strategy Academy modes with live odds, custom decks, tarot consumables, and authentic CRT retro visuals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
